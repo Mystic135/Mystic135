@@ -1,2 +1,4 @@
-# Mystic
-Config files for my GitHub profile.
+# Mystic Magic
+
+
+## Hello World, 
