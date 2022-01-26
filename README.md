@@ -5,7 +5,7 @@
 
 - 👨‍💻 My projects-
     - **[Rexus](https://dsc.gg/rexus.io)** A multi-purpose discord bot for moderation, economy, fun, mini-games and utility. _Still under development_.
-    - **[TicketCord](https://dsc.gg/tickets.io)** A discord bot for serving support tickets in your discord server. _Still under development_
+    - **[TicketCord](https://dsc.gg/tickets.io)** A discord bot for serving support tickets in your discord server. _Still under development_.
 
 - 🔦 Future projects-
     - My website
