@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujalgoel&style=flat-square" alt="sujalgoel" /> </p>
 
-- 👨‍💻 My projects-
+- 👨‍💻 **Projects I Am Currently Working On-**
     - **[Rexus](https://dsc.gg/rexus.io)** A multi-purpose discord bot for moderation, economy, fun, mini-games and utility. _Still under development_.
     - **[TicketCord](https://dsc.gg/tickets.io)** A discord bot for serving support tickets in your discord server. _Still under development_.
 
-- 🔦 Future projects-
+- 🔦 **Future projects-**
     - My website
     - Modify (A discord bot for moderation)
     - CalculatorBot (A discord bot for calculating)
@@ -24,9 +24,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalgoel&layout=compact&hide=html" alt="sujalgoel" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=sujalgoel&row=2&column=3" alt="sujalgoel" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalgoel" alt="sujalgoel" /></p>
-<h1 align="center">🤝 Get in touch!</h1>
-<p align="center">
-<a href="https://instagram.com/sujalgoel_10" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/581752425858203659" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://reddit.com/u/sujalgoel_10" target="_blank"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
