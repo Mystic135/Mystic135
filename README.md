@@ -4,8 +4,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujalgoel&style=flat-square" alt="sujalgoel" /> </p>
 
 - 👨‍💻 My projects-
-    - [Rexus](https://dsc.gg/rexus.io) A multi-purpose bot for moderation, economy, fun, mini-games and utility. Still under development.
-    - [TicketCord](https://dsc.gg/tickets.io) A bot for serving support tickets in your server.
+    - [Rexus](https://dsc.gg/rexus.io) A multi-purpose discord bot for moderation, economy, fun, mini-games and utility. Still under development.
+    - [TicketCord](https://dsc.gg/tickets.io) A discord bot for serving support tickets in your discord server.
+
+- 🔦 Future projects-
+    - My website
+    - Modify (A discord bot for moderation)
+    - CalculatorBot (A discord bot for calculating)
+    - And some more idk
 
 
 - 📫 Reach me at **[goelsujal9@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=goelsujal9@gmail.com)**
