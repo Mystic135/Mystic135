@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mystic Magic</h1>
-<h3 align="center">I'm a high-school discord bot developer and a part time programmer with a little amount of programming knowledge!</h3>
+<h3 align="center">I'm a high-school discord bot developer and a part-time programmer with a little amount of programming knowledge!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujalgoel&style=flat-square" alt="sujalgoel" /> </p>
 
